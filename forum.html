@@ -1,22 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Forum Page</title>
+  <title>Forum</title>
   <link rel="stylesheet" href="styles.css">
 </head>
-
 <body>
   <header>
     <h1>Your Website Title</h1>
     <nav>
       <ul>
-        <li><a href="#about">About</a></li>
-        <li><a href="#story">Story</a></li>
-        <li><a href="#work">What I'm Working On</a></li>
-        <li><a href="forum.html">Forum</a></li> <!-- Link to the main forum page -->
+        <li><a href="index.html">Home</a></li>
+        <!-- You can add more navigation links if needed -->
       </ul>
     </nav>
   </header>
@@ -29,16 +25,16 @@
 
   <section>
     <h2>Latest Topics</h2>
-    <ul>
-      <li><a href="topic.html">Topic 1</a></li> <!-- Placeholder link to individual topic page -->
-      <li><a href="topic.html">Topic 2</a></li> <!-- Placeholder link to individual topic page -->
-      <!-- Add more topics here -->
-    </ul>
+    <div id="forum-topics">
+      <!-- The dynamically created topics will be displayed here -->
+    </div>
   </section>
 
   <footer>
     <p>&copy; 2023 Your Name. All rights reserved.</p>
   </footer>
-</body>
 
+  <script src="scripts.js"></script> <!-- Link to your JavaScript file -->
+</body>
 </html>
+
