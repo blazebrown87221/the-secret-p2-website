@@ -3,7 +3,8 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/blazebrown87221/the-secret-p2-website)](https://github.com/blazebrown87221/the-secret-p2-website/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/blazebrown87221/the-secret-p2-website)](https://github.com/blazebrown87221/the-secret-p2-website/network/members)
-[![Twitter Follow](https://img.shields.io/twitter/follow/blazebrown87221?style=social)](https://twitter.com/blazebrown87221)
+![Discord](https://img.shields.io/discord/1135936859210526853)
+
 
 ## Table of Contents
 - [About](#about)
